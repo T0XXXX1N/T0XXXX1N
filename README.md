@@ -23,6 +23,7 @@
 - Desarrollador Front-End Junior
 - Amante de la tecnologia
 - Totalmente autodidacta
+- Venezolano
 
 
 <br><br>
